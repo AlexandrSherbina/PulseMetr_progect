@@ -6,7 +6,7 @@ https://alexandrsherbina.github.io/PulseMetr_progect/.
 
 чистый HTML
 использовал препроцессор SASS для CSS
-чистый JS
+использовал чистый (native)JS
 проект собирал с помощью сборщика GULP
 выполнена адаптация под все устройства, подход mobile first
 сверстана форма обратной связи
